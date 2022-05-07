@@ -32,7 +32,5 @@ namespace Semana05.View
             this.DataContext = viewModel;
         }
     }
-
-}
 }
 
